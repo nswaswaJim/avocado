@@ -8,7 +8,7 @@ too steep to pedal.  Then climbed the rest of the thing, a difficult hike, in sa
 
 
 - 16 starts with a bang:
-- mon:  wai-work-43(confirm)  
+- mon:  wai-work-45  
 --  home8ish quick beans/oat bfst prep.
 - tues- bike hard, work, bike hard.  
 - weds- same, prep:  
