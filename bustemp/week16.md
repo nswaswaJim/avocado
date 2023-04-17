@@ -18,6 +18,7 @@ too steep to pedal.  Then climbed the rest of the thing, a difficult hike, in sa
 Goals for week:  
 - prep trip. ldry, essentials.  
 -  fin- gc, cnote  
+-  and Jekyl!!!  load up vids, make page for sharing Ka'ala etc.  
 
 while not prepping trips:  gitpages/md.  sync up all devices
 continue ifuse.
