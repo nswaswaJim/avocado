@@ -80,7 +80,7 @@ So happy Easter!!! a much needed 3 day weekend.  On da bus.  on schedule.  bike 
 and a new paragraph after break tag<br> then enter, otherwise <br> just new line.  double enter also new para.
 
 
-!["the guide"](muhabura)
+!["the guide"](muhabura.jpg)
 
 
 <a name = "sectionlink1">
