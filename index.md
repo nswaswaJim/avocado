@@ -12,3 +12,11 @@ or this video tag:
 
 Your browser does not support the video tag.
 </video>
+
+or this video tag larger: 
+
+<video width="640" height="480" controls>
+  <source src="IMG_0712.MOV" type="video/mp4">
+
+Your browser does not support the video tag.
+</video>
