@@ -28,4 +28,5 @@ this gitpage/folder project.
 
 [andaothertestlink](anothertestlink.md)
 
-
+Notes to self:  start new page for this:  -
+https://kjaer.io/notes/.  good sample of notes setup.
