@@ -1,7 +1,7 @@
 # Week 16  
  
  
-###  climbed Ka'ala this weekend!!!  After biking to trailhead.  Then dragging my buke up first part of trail, the road part.  
+###  climbed Ka'ala this weekend!!!  After biking to trailhead.  Then dragging my bike up first part of trail, the road part.  
 too steep to pedal.  Then climbed the rest of the thing, a difficult hike, in sandals.  D- for planning cuz was ill prepared but class V A+ for determination, persistance, and getting it done!!!  Rain and shiver and loose sandal and little food etc!!!  And still rode on Sun, work mon, gonna bike, clean, and ride again tues.  Good job man!   
 
 [back to linktest](linktest.md)
