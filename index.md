@@ -19,4 +19,12 @@ or this video tag larger:
   <source src="IMG_0712.MOV" type="video/mp4">
 
 Your browser does not support the video tag.
+</video>  
+
+unconstrained vid:  
+
+<video  controls>
+  <source src="IMG_0712.MOV" type="video/mp4">
+
+Your browser does not support the video tag.
 </video>
