@@ -27,6 +27,7 @@ electron.
 this gitpage/folder project.
 
 [andaothertestlink](anothertestlink.md)
+[notes to self](notes.md)
 
 Notes to self:  start new page for this:  -
 https://kjaer.io/notes/.  good sample of notes setup.
