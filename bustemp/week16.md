@@ -19,6 +19,7 @@ Goals for week:
 - prep trip. ldry, essentials.  
 -  fin- gc, cnote  
 -  and Jekyl!!!  load up vids, make page for sharing Ka'ala etc.  
+-  
 
 while not prepping trips:  gitpages/md.  sync up all devices
 continue ifuse.
@@ -31,3 +32,18 @@ this gitpage/folder project.
 
 Notes to self:  start new page for this:  -
 https://kjaer.io/notes/.  good sample of notes setup.
+
+
+## updates:  
+
+** Tuesday.**  
+
+yesterday- success, 45 clean, rest of week for bike and work and even me. 
+
+Got link for vids up on github.io.    
+Keep up w/ Dillinger for these simple ones, work on Jekyl from home.    
+Today:  Shop wally world and donkeyjote.     
+evening:  Jekyl.  
+
+Weds:  evening hill bike?  (prep- easy bike tues eve, weds morn, strong late weds snack to fuel ride.  Contingent on condition, fallback thurs.  
+Fri is clean I beleive.  
