@@ -47,3 +47,6 @@ evening:  Jekyl.
 
 Weds:  evening hill bike?  (prep- easy bike tues eve, weds morn, strong late weds snack to fuel ride.  Contingent on condition, fallback thurs.  
 Fri is clean I beleive.  
+
+** and a plan....Bike Punchbowl Weds.  Can do.  Prep:
+shopping done today.   easy ride today.  easy ride Weds am.  Good late lunch Weds.  Easy bike to foothill.  Snack.  steady climb.  REst if needed.  steady.  top.  
