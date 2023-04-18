@@ -44,6 +44,16 @@ edit from dillinger
 r { color: Red }
 o { color: Orange }
 g { color: Green }
+ 
+ 
+ body {
+  background-color: lightgreen;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
 </style>
 
 # TODOs:
