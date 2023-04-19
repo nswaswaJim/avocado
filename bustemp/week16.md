@@ -53,6 +53,11 @@ shopping done today.   easy ride today.  easy ride Weds am.  Good late lunch Wed
 
 test from iphoney
 
+### Jekyl is running on HP!!!  
+
+hella install but eventually it's up.  Kinda work like node and npm, ruby and gems analogous i guess.  read more bout that.  
+Anyway Jekyll is working on HP, can use it for setup, then...dillinger for updates, beam up/down via git/github/vscode?  tie all together.  fun big experiment.  
+
 
 
 
