@@ -1,9 +1,10 @@
-<h1>index</h1>
-[kaala](IMG_0712.MOV)  
+<h1>vid format test</h1>
+# vid format test  
+
+- .md and .html swamp
 
 try this:  markdown img syntax format:  
 
-![kaala](IMG_0712.MOV)
 
 or this video tag:  
 
