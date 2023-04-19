@@ -49,4 +49,16 @@ Weds:  evening hill bike?  (prep- easy bike tues eve, weds morn, strong late wed
 Fri is clean I beleive.  
 
 ** and a plan....Bike Punchbowl Weds.  Can do.  Prep:
-shopping done today.   easy ride today.  easy ride Weds am.  Good late lunch Weds.  Easy bike to foothill.  Snack.  steady climb.  REst if needed.  steady.  top.  
+shopping done today.   easy ride today.  easy ride Weds am.  Good late lunch Weds.  Easy bike to foothill.  Snack.  steady climb.  REst if needed.  steady.  top.  h
+
+test from iphoney
+
+
+
+
+
+
+
+
+
+
