@@ -58,7 +58,11 @@ test from iphoney
 hella install but eventually it's up.  Kinda work like node and npm, ruby and gems analogous i guess.  read more bout that.  
 Anyway Jekyll is working on HP, can use it for setup, then...dillinger for updates, beam up/down via git/github/vscode?  tie all together.  fun big experiment.  
 
+### Weds:  Coffee/banana/pb = bike fuel!  
 
+== highlighted? ==
+
+Easy bike, prep bike fuel in pm, climb that punchbowl after work.
 
 
 
