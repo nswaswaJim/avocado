@@ -65,6 +65,13 @@ Anyway Jekyll is working on HP, can use it for setup, then...dillinger for updat
 Easy bike, prep bike fuel in pm, climb that punchbowl after work.
 
 
+Also make md cheatsheet for use when mobile or when using jekyll.  cool examples   
+==highlight==   
+++underline++  
+Subscript tilda H~2~O  
+Superscript carat X^2^  
+
+
 
 
 
