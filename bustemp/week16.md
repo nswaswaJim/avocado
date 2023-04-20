@@ -71,6 +71,11 @@ Also make md cheatsheet for use when mobile or when using jekyll.  cool examples
 Subscript tilda H~2~O  
 Superscript carat X^2^  
 
+### Thursday:  
+**Wow!!!** Climbed Punchbowl on bike Weds after work!!!  Good prep-Tues eve, weds am easy rides; good meals tues eve/weds am, healthy late tuna salad weds afternoon, bananas before ride.  Part of bike fuel.  Note to self- bike fuel:  Make banana/pb/beet/coffee in bulk?  Anyway:  
+
+#### weds part 2:  worked on githubpage.  migrated an old template over, hacked up put in pics to share, is rough but is up.  Use for template going forward and add to.  githup pages structure is coming.  Add Jekyll.  
+
 
 
 
