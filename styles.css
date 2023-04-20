@@ -1,9 +1,56 @@
-body {
-    background-color: powderblue;
-  }
-  h1 {
+
+
+
+/* css comment */
+
+/* box sizing: 
+default is 
+box-sizing: content-box.  Element size + borders/padding
+box-sizing: border-box.  Element size includes borders/padding/etc.  Size is what you want.
+*/
+
+
+/* #### Header/Nav, same for all pages: #### */
+
+header {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    background-color: darkcyan;
+    text-align:center;
+}
+
+header img {
+    position: absolute;
+    left:0px;
+    max-height: inherit;
+}
+
+nav {
+    position: relative;
+    width: 100%;
+    height: 20px;
+    background-color: darkcyan;
+    margin: 2px 0px;
+    text-align: center;
+
+}
+
+/* #### End Header/Nav #### */
+
+
+/*div { 
+    box-sizing: content-box;
+    width: 200px;
     color: blue;
-  }
-  p {
-    color: red;
-  }
+    border: 2px solid blue;
+}*/
+
+.test {
+    box-sizing: border-box;
+    width: 200px;
+}
+
+#testid {
+    color:red;
+}
