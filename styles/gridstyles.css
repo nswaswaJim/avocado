@@ -32,7 +32,7 @@ box-sizing: border-box.  Element size includes borders/padding/etc.  Size is wha
 
  .rightmain {
     grid-area: rightmain;
-    border: 1px solid green;
+    /*border: 1px solid green;*/
  }
 
  .rightside {
