@@ -1,5 +1,5 @@
-<h1>vid format test</h1>
-# vid format test  
+<h1>vid format test(html)</h1>
+# vid format test  (md)
 
 - .md and .html swamp
 
