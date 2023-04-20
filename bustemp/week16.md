@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: Week 16, start Apr 17.
 ---
 
 
 # Week 16  
+#### 17 April- 23 April.  
  
  
 ###  climbed Ka'ala this weekend!!!  After biking to trailhead.  Then dragging my bike up first part of trail, the road part.  
