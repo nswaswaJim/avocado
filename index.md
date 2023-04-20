@@ -3,7 +3,12 @@
 <style>
 h1   {color: blue;}
 </style>
-<h1>vid format test1(html)</h1>
+
+<h1>Too big for email.<br>
+Too cool for facebook.<br>
+Assembled with digital duct tape.
+</h1>
+<h3>vid format test1(html)</h3>
 # vid format test  (md)
 
 - .md and .html swamp
