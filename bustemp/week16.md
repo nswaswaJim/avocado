@@ -74,7 +74,19 @@ Superscript carat X^2^
 ### Thursday:  
 **Wow!!!** Climbed Punchbowl on bike Weds after work!!!  Good prep-Tues eve, weds am easy rides; good meals tues eve/weds am, healthy late tuna salad weds afternoon, bananas before ride.  Part of bike fuel.  Note to self- bike fuel:  Make banana/pb/beet/coffee in bulk?  Anyway:  
 
-#### weds part 2:  worked on githubpage.  migrated an old template over, hacked up put in pics to share, is rough but is up.  Use for template going forward and add to.  githup pages structure is coming.  Add Jekyll.  
+#### weds part 2:    
+worked on githubpage.  migrated an old template over, hacked up put in pics to share, is rough but is up.  Use for template going forward and add to.  githup pages structure is coming.  Add Jekyll and bam, have nice site.  'Dont' know what I want, but I know how to get it.'  
+
+### Kale ssebo, leero:  Thursday!:  
+- coniinue on w/site and Jekyll.    
+- get time off in to Chris/Thomas, get 'out of office messages prepped'
+- make hand off sheet  
+And:  
+- gift card/cash/bank for travel?
+-  travel docs  
+-  pack.  
+-  Fri- clean.  Last clean.  Weekend to organize non-bankshit.  
+-  
 
 
 
