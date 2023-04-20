@@ -1,3 +1,6 @@
+<style>
+h1   {color: blue;}
+</style>
 <h1>vid format test(html)</h1>
 # vid format test  (md)
 
