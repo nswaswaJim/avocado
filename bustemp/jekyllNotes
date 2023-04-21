@@ -1,0 +1,70 @@
+# jekyll
+
+#### in gitbox/cados/avocado
+
+ran jekyll new . --force to create.  Appears success:
+
+ ~/gitbox/cados/avocado [main|✔] 
+20:02 $ jekyll new . --force
+Running bundle install in /home/jim/gitbox/cados/avocado... 
+  Bundler: Fetching gem metadata from https://rubygems.org/............
+  Bundler: Resolving dependencies...
+  Bundler: Using bundler 2.4.12
+  Bundler: Using colorator 1.1.0
+  Bundler: Using concurrent-ruby 1.2.2
+  Bundler: Using eventmachine 1.2.7
+  Bundler: Using http_parser.rb 0.8.0
+  Bundler: Using ffi 1.15.5
+  Bundler: Using forwardable-extended 2.6.0
+  Bundler: Using google-protobuf 3.22.3 (x86_64-linux)
+  Bundler: Using rb-fsevent 0.11.2
+  Bundler: Using rexml 3.2.5
+  Bundler: Using liquid 4.0.4
+  Bundler: Using mercenary 0.4.0
+  Bundler: Using rouge 4.1.0
+  Bundler: Using safe_yaml 1.0.5
+  Bundler: Using unicode-display_width 2.4.2
+  Bundler: Using public_suffix 5.0.1
+  Bundler: Using webrick 1.8.1
+  Bundler: Using i18n 1.12.0
+  Bundler: Using em-websocket 0.5.3
+  Bundler: Using sass-embedded 1.62.0 (x86_64-linux-gnu)
+  Bundler: Using rb-inotify 0.10.1
+  Bundler: Using kramdown 2.4.0
+  Bundler: Using pathutil 0.16.2
+  Bundler: Using addressable 2.8.4
+  Bundler: Using terminal-table 3.0.2
+  Bundler: Using jekyll-sass-converter 3.0.0
+  Bundler: Using listen 3.8.0
+  Bundler: Using kramdown-parser-gfm 1.1.0
+  Bundler: Using jekyll-watch 2.2.1
+  Bundler: Using jekyll 4.3.2
+  Bundler: Using jekyll-feed 0.17.0
+  Bundler: Using jekyll-seo-tag 2.8.0
+  Bundler: Using minima 2.5.1
+  Bundler: Bundle complete! 7 Gemfile dependencies, 33 gems now installed.
+  Bundler: Use `bundle info [gemname]` to see where a bundled gem is installed.
+New jekyll site installed in /home/jim/gitbox/cados/avocado. 
+✔ ~/gitbox/cados/avocado [main|…8] 
+20:04 $ 
+
+✔ ~/gitbox/cados/avocado [main|…8] 
+20:05 $ ls -lt
+total 79036
+-rw-r--r-- 1 jim jim     2053 Apr 20 20:04  Gemfile.lock
+-rw-r--r-- 1 jim jim     1309 Apr 20 20:04  Gemfile
+drwxr-xr-x 2 jim jim     4096 Apr 20 20:04  _posts
+-rw-r--r-- 1 jim jim      419 Apr 20 20:04  404.html
+-rw-r--r-- 1 jim jim      539 Apr 20 20:04  about.markdown
+-rw-r--r-- 1 jim jim      175 Apr 20 20:04  index.markdown
+-rw-r--r-- 1 jim jim     2079 Apr 20 20:04  _config.yml
+drwxr-xr-x 2 jim jim     4096 Apr 20 19:29  bustemp
+-rw-r--r-- 1 jim jim      784 Apr 20 19:29  index.md
+drwxr-xr-x 2 jim jim     4096 Apr 20 19:29  pages
+drwxr-xr-x 2 jim jim     4096 Apr 20 19:29  styles
+-rw-r--r-- 1 jim jim      689 Apr 19 21:37 'index copy.md'
+drwxr-xr-x 2 jim jim     4096 Apr 19 21:24  images
+-rw-r--r-- 1 jim jim       60 Apr 19 19:34  avocado.code-workspace
+-rw-r--r-- 1 jim jim 60685660 Apr 16 00:25  IMG_0712.MOV
+-rw-r--r-- 1 jim jim 20185358 Jan 22 19:10  everest1.MOV
+✔ ~/gitbox/cados/avocado [main|…8] 
