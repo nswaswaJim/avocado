@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>js5</Title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="../styles/styles.css">
+<link rel="stylesheet" href="../styles/gridstyles.css">
+
+<link rel="" href="styles/styles.css">
+<link rel="stylesheet" href="styles/styles.css">
+<script src=""scripts/script.js"></script>
+<style>
+
+
+ /* #### @media test:  if width<600 make red: #### */
+@media (max-width: 600px) {
+    .widthtest {
+        color: red;
+    }
+}
+/* #### end @media test #### */
+
+ /* Any button over which the user's pointer is hovering */
+button:hover {
+  color: blue;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+</style>
+
+<!-- #### begin js.  put into scripts page later, just here now for tinkering. #### -->
+
+
+
+
+
+
+<!-- #### end jscripts. #### -->
+</head>
+<body>
+
+<!-- #### Header and Nav #### -->
+<header>
+    
+<img src="../images/muhabura.jpg" alt="Muhabura" height="100%">
+<h1><p>JS 5</p>
+    <p></p>js cont</p>
+    <p>js 5</h1>
+    
+</header>
+
+<nav>
+    Nav:  <a href="../index.html">Home/Index page</a>   <a href="flexttest.html">CSS home</a>  <a href="flexttest.html">js (not yet)</a>
+</nav>
+
+<nav>
+    Nav:   <a href="gridtest.html">Grid test</a>  <a href="gridtest1.html">Grid test 1</a>  <a href="gridtest2.html">Grid test 2</a>  <a href="gridref.html">Grid ref</a>
+</nav>
+
+    <!-- #### End Header and Nav #### -->
+
+
+<p>Below laid out in grid, css cleaned up.</p>
+
+    
+<section>
+
+<div class="mainGrid">
+
+    <div class="gridheader">
+        <article>
+            <p id="para1">for testing, para1<p>
+               <button type="button"
+               onclick='document.getElementById("para1").innerHTML = "para 1 changed"'>click to change</button>
+            <p>
+
+
+            </p>               
+        </article>
+    </div>
+
+    <div class="leftmain">
+        <article>
+            <p>grid 2</p>
+            <p>maybe a nav</p>
+            <p>or sidebar</p>
+        </article>
+    </div>
+
+    <div class="rightmain">
+        <article>
+            <p class="widthtest">this is the main article area</p>
+            <p>example change img src:
+
+                <img id="changeimg" src="../images/muhabura.jpg" alt="Muhabura" width="100px">
+                
+                <button onclick="document.getElementById('changeimg').src='../images/muhabura.jpg'">image1</button>
+
+                <button onclick="document.getElementById('changeimg').src='../images/muhabura1.jpg'">image2</button>
+    
+            </p>
+            
+            <p>Same thing but using query selector:
+
+                <button id="button1">image1</button>
+                <button id="button2">image1</button>
+
+                <script>
+
+                    const btn1 = document.querySelector('#button1');
+                    btn1.addEventListener('click', function1);
+                    function function1() {
+                        document.getElementById('changeimg').src='../images/muhabura.jpg';
+
+                    }
+                    
+                    
+                    const btn2 = document.querySelector('#button2');
+                    btn2.addEventListener('click', function2);
+                    function function2() {
+                        document.getElementById('changeimg').src='../images/muhabura1.jpg';
+
+                    }
+
+                </script>
+
+                </p>
+
+                <p>review:  input syntax:</p>
+                <p><input id="input1" size="6"> input <br>
+                <button id="button3">button3</button>     
+                <p><input id="output1" size="6"> output <br>
+                </p>
+
+                <script>
+
+                    const btn3 = document.querySelector("#button3");
+                    btn3.addEventListener('click',function3);
+                    const testvar = 5;
+                    const testvar1 = document.querySelector("#input1").value;
+
+                    function function3() {
+                        console.log('clicked button 3');
+                        console.log(testvar);
+                        console.log(testvar1);
+                        document.querySelector("#output1").value=testvar1;   
+                        const imagetest = document.querySelector('#changeimg');  
+                        imagetest.setAttribute("src", "../images/muhabura1.jpg");         
+                    
+                    }
+
+                </script>
+
+                    <p>prompt</p>
+                    <p>quick way to enter:<br>
+                        <button id="promptbtn">promptbtn</button>
+                        <input size="6" id="promptoutput">output
+                        
+                        <script>
+
+                         const promptbutton = document.querySelector('#promptbtn');
+                            promptbutton.addEventListener('click', functionprompt);
+
+                        function functionprompt() {
+                             let prompttest = prompt("enter test");
+                            document.querySelector('#promptoutput').value=prompttest;
+                          }
+
+                        </script>
+                    
+                        
+
+
+                    </p>
+
+
+
+                </p>
+
+            
+                
+        </article>
+    </div>
+
+    <div class="rightside">
+        <article>
+            <p>this is right side</p>
+                <button type="button" id="consoleLoop">console loop</button>
+
+                <script>
+
+                    const consoleLoop = document.querySelector('#consoleLoop');
+                    consoleLoop.addEventListener('click', functionloop);
+                
+
+                const loopstart = 1;
+                const loopincrement = 1;
+                const loopend = 10;
+
+                    function functionloop() {
+
+                    for (let count=1; count <= 7; count = count + 1) {
+                        console.log(count);
+                    }
+
+                }
+
+                
+
+            
+
+                </script>
+
+
+            <!--
+                for loop syntax
+                    for (let number = 0; number <= 12; number = number + 2) {
+  console.log(number);
+}
+
+for (let current = 20; ; current = current + 1) {
+  if (current % 7 == 0) {
+    console.log(current);
+    break;
+  }
+}
+// → 21
+
+#######  function samples:
+
+    const square = function(x) {
+  return x * x;
+};
+
+console.log(square(12));
+// → 144
+
+
+pass parameter sample:
+
+
+const power = function(base, exponent) {
+  let result = 1;
+  for (let count = 0; count < exponent; count++) {
+    result *= base;
+  }
+  return result;
+};
+
+console.log(power(2, 10));
+// → 1024
+
+
+
+
+
+
+            -->
+
+
+
+
+
+
+        </article>
+    </div>
+
+
+    <div class="footer">
+        <article>
+            footer.
+        </article>
+    </div>
+
+
+    <!-- and another way:
+            const para = document.querySelector('p');
+
+para.addEventListener('click', updateName);
+
+function updateName() {
+  const name = prompt('Enter a new name');
+  para.textContent = `Player 1: ${name}`;
+}
+
+-->
+                
+</p>    
+
+<!-- <button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Turn on the light</button>
+
+<img id="myImage" src="pic_bulboff.gif" style="width:100px">
+
+<button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">Turn off the light</button> -->
+
+
+   
+   <!--  use as needed, if needed. 
+    <div class="g5">
+        <article>
+            grid5
+        </article>
+    </div>
+    
+    <div class="g6">
+        <article>
+            grid6
+        </article>
+    </div>
+    
+    <div class="g7">
+        <article>
+            grid7
+        </article>
+    </div>
+
+    <div class="g">
+        <article>
+            grid8
+        </article>
+    </div>
+    
+    <div class="g9">
+        <article>
+            grid6
+        </article>
+    </div>
+
+
+    </div>
+  
+</div>
+
+    <article>
+        grid1
+    </article>
+
+    <article>
+        grid2
+    </article>
+
+    <article>
+        grid3
+    </article>
+
+    <article>
+        grid4
+    </article>
+
+    <article>
+        grid5
+    </article>
+
+    <article>
+        grid6
+    </article>
+
+
+</section>
+
+-->
+
+
+
+</body>
+</html>
+
