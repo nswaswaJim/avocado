@@ -95,6 +95,20 @@ And:
 -  Fri- clean.  Last clean.  Weekend to organize non-bankshit.  
 -  
 
+** Thurs update: ** by lunch, imageTest is ready for sending link.  Keep on with that.  
+
+PM: BRING CB home.  Bike via water.  
+Din:  yogurt, ban, beets, chia, soy, berries.  
+Make:  bkfast, bikerfuel drink for Fri bring work.
+
+
+Friday plan:  
+- Bring bikerfuel to work.
+- clean up files, prep so monday is easy signing out.  
+- follow up any bank/gift/etc, check w/bank.  
+- clean...scratch that.  work cleaning in on Sat.  Fri, after bikerfuel, go bike like mofo.  Enjoy fri eve.  
+- 
+Weekend- get all together for hop.  
 
 
 
