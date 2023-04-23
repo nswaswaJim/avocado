@@ -5,3 +5,15 @@
 layout: home
 ---
 testing Jekyll index.markdown edit direct from github
+
+
+pathto:  
+images/ChinaCliffs1.MOV
+
+<p>try ChinaCliffs2 direct:<br>
+<video width="320" height="240" controls>
+    <source src="images/ChinaCliffs1.MOV" type="video/mp4">
+  
+  Your browser does not support the video tag.
+  </video>
+</p>
