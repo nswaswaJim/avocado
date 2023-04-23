@@ -4,3 +4,4 @@
 
 layout: home
 ---
+testing Jekyll index.markdown edit direct from github
