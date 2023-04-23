@@ -10,9 +10,9 @@ testing Jekyll index.markdown edit direct from github
 pathto:  
 images/ChinaCliffs1.MOV
 
-<p>try ChinaCliffs2 direct:<br>
-<video width="320" height="240" controls>
-    <source src="images/ChinaCliffs1.MOV" type="video/mp4">
+<p>try ChinaCliffs2 direct. and stripped code:<br>
+<video width="320" height="240">
+    <source src="images/ChinaCliffs1.MOV">
   
   Your browser does not support the video tag.
   </video>
