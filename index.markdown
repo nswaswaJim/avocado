@@ -17,3 +17,14 @@ images/ChinaCliffs1.MOV
   Your browser does not support the video tag.
   </video>
 </p>
+
+
+<p>
+    retry path /images/
+<p>try ChinaCliffs2 direct. and stripped code:<br>
+<video width="320" height="240">
+    <source src="/images/ChinaCliffs1.MOV">
+  
+  Your browser does not support the video tag.
+  </video>
+</p>
