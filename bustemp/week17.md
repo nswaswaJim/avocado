@@ -15,4 +15,5 @@ Mon- getting work done.  then:
 - bike.
 - final touches pack.
 - jekyll asmap.  
-- 
+
+Tues- wake mid, final touch pack, loooong flight.  Charge chromey...
